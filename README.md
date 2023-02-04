@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**PizzaPizza72/PizzaPizza72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm PizzaPizza72!
 
-Here are some ideas to get you started:
+### My projects:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Catter:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PizzaPizza72&repo=catter-platform)](https://github.com/PizzaPizza72/catter-platform)
+
+My website:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PizzaPizza72&repo=pizzapizza72.github.io)](https://github.com/PizzaPizza72/pizzapizza72.github.io)
+
+### Favorite pizza places (ranked from best to worst):
+1 - Pizza Hut
+
+2 - Little Caesars
+
+3 - Donatos Pizza
+
+4 - Domino's
